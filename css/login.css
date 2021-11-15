@@ -25,21 +25,45 @@ body{
 
 .login-form .item{
     border-radius: 5px;
-    border-color: #3d82c1;
-    padding: 10px 20px;
+    border-color: #898383;
+    padding: 4px;
+    padding-right: 150px;
     font-size: 18px;
-    background-color: #f5f5ef;
+    background-color: #ffff;
     margin-top: 40px;
-    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+    
 }
  .login-form .login{
      border-radius: 6px;
-     padding: 10px 10px;
+     padding: 5px 80px;
      font-size: 18px;
      font-weight: bold;
      background-color: #3d82c1;
-     border: none;
      color: white;
      margin-top: 40px;
-     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+ }
+ .login:hover {
+     background-color: #f5f5ef;
+     color: #3d82c1;
+     border: 1px solid #3d82c1;
+ }
+
+ input[type="text"]::placeholder{
+     text-indent: 10px;
+ }
+ input[type="text"]{
+     text-indent: 10px;
+ }
+ input[type="password"]::placeholder{
+     text-indent: 10px;
+ }
+ input[type="password"]{
+     text-indent: 10px;
+ }
+
+ hr{
+     border: 1px solid #0000;
+     opacity: 100%;
  }
