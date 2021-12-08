@@ -1,0 +1,14 @@
+h1{
+    font-family: Montserrat;
+}
+.table{
+    font-family: Montserrat;
+}
+.container .card-body{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.nav{
+    font-size: smaller;
+}
