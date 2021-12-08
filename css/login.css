@@ -34,36 +34,38 @@ body{
     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
     
 }
- .login-form .login{
-     border-radius: 6px;
-     padding: 5px 80px;
-     font-size: 18px;
-     font-weight: bold;
-     background-color: #3d82c1;
-     color: white;
-     margin-top: 40px;
-     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
- }
- .login:hover {
-     background-color: #f5f5ef;
-     color: #3d82c1;
-     border: 1px solid #3d82c1;
- }
+ 
+.login-form .login{
+    border-radius: 6px;
+    padding: 5px 80px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3d82c1;
+    color: white;
+    margin-top: 40px;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+}
+ 
+.login:hover {
+    background-color: #f5f5ef;
+    color: #3d82c1;
+    border: 1px solid #3d82c1;
+}
 
- input[type="text"]::placeholder{
-     text-indent: 10px;
- }
- input[type="text"]{
-     text-indent: 10px;
- }
- input[type="password"]::placeholder{
-     text-indent: 10px;
- }
- input[type="password"]{
-     text-indent: 10px;
- }
+input[type="text"]::placeholder{
+    text-indent: 10px;
+}
+input[type="text"]{
+    text-indent: 10px;
+}
+input[type="password"]::placeholder{
+    text-indent: 10px;
+}
+input[type="password"]{
+    text-indent: 10px;
+}
 
- hr{
-     border: 1px solid #0000;
-     opacity: 100%;
- }
+hr{
+    border: 1px solid #0000;
+    opacity: 100%;
+}
