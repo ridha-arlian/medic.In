@@ -1,0 +1,13 @@
+.card-body{
+    background-color: #F5F5EF;
+}
+h1{
+    font-family: Montserrat;
+}
+.table{
+    font-family: Montserrat;
+}
+.container .card-body{
+    padding-left: 70px;
+    padding-top: 30px;
+}
