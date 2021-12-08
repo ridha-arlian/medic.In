@@ -1,0 +1,25 @@
+.sidebar{
+    background-color: #3D82C1;
+}
+
+.nav .font{
+    color: white;
+}
+
+.nav .font:hover{
+    opacity: 40%;
+}
+
+.selected{
+    opacity: 40%;
+}
+
+.selamat{
+    top: 40%;
+    width: 50%;
+}
+.container .card{
+    text-align: center;
+    background-color: #3D82C1;
+    border-radius: 30px;
+}

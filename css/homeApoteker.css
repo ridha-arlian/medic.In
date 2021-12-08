@@ -1,0 +1,24 @@
+.nav{
+    background-color: #3D82C1;
+    font-family: montserrat;
+    height: 100vh; 
+    width: 5.5rem; 
+    float: left;
+}
+
+.navnav{
+    margin-left: -15px;
+}
+
+.nav1{
+    width: 26px;
+    height: 26px;
+}
+a:hover {
+    opacity: 40%;
+}
+
+.welcome{
+    top: 30%;
+    left: 25%;
+}
