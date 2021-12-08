@@ -6,8 +6,28 @@ h1{
 }
 .table{
     font-family: Montserrat;
+    overflow-y: scroll;
 }
 .container .card-body{
-    padding-left: 70px;
+    padding-left: 30px;
     padding-top: 30px;
 }
+
+.nav{
+    font-size: smaller;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+  
+  
+  
+
+
